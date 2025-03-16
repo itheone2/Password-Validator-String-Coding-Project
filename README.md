@@ -56,7 +56,7 @@ Password is valid and OK to use.
 
 ## Requirements
 
-- Python 3.x
+- Python
 - No external libraries required
 
 ## Educational Context
